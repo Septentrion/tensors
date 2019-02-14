@@ -59,10 +59,21 @@
 ### Traitement de la langue
 
 - [Générateur de textes politiques | OCTO](https://blog.octo.com/des-reseaux-de-neurones-pour-generer-des-discours-politiques/)
+- [Générateur de pièces des Shakespeare | Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+### Jeux
+
+[Alpha Go | Andrej Karpathy](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
+http://cs229.stanford.edu/proj2017/final-reports/5244338.pdf
+[RNN et Jeux de stratégie](https://www.google.com/search?client=ubuntu&channel=fs&q=machine+learning+rnn+strategy+game&ie=utf-8&oe=utf-8)
 
 ## Publications
 
 - [Yann Le Cun](http://yann.lecun.com/exdb/publis/index.html#fulllist)
+
+### Blogs
+
+- [Andrej Karpathy](http://karpathy.github.io/2016/05/31/rl/)
 
 ## Expérimentations
 
