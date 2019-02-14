@@ -33,6 +33,7 @@
 - [Jeux de données publics | Startupgrind](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
 - [Exploration de données | Resource Watch](https://resourcewatch.org/data/explore)
 - [Challenge Data | ENS](https://challengedata.ens.fr/fr/home)
+- [Plymouth Data Place](https://plymouth.thedata.place/dataset)
 
 ## Cours
 
