@@ -23,6 +23,9 @@
 - [API de Tensorflow.js](https://js.tensorflow.org/api/0.13.3)
 - :star: [Mémento IA etc.](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
+### Cheatsheets
+[Mémento sur les réseaux de neurones en images](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+
 ## Jeux de données
 
 - [Jeux de données | Wikipedia](https://www.wikiwand.com/en/List_of_datasets_for_machine_learning_research)
