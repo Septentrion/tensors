@@ -31,4 +31,10 @@ Dans l'apprentissage supervisé, "réponse" ou "résultat" d'un exemple. Chaque 
 Les fonctions d'activation sont dérivées de la **loi de Hebb**.
 
 ## Régression
->
+> Type de modèle qui génère des valeurs continues (à virgule flottante, généralement)
+
+## Classification
+> Type de modèle de machine learning permettant de différencier deux classes discrètes ou plus. Par exemple, un modèle de classification par traitement du langage naturel pourrait déterminer si une phrase en entrée est en français, en espagnol ou en italien
+
+## Hyperparamètres
+> Les paramètres que vous réglez pendant les exécutions successives de l'entraînement du modèle
