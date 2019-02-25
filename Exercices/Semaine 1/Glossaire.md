@@ -24,6 +24,8 @@ Dans l'apprentissage supervisé, "réponse" ou "résultat" d'un exemple. Chaque 
 
 > Dans le perceptron classique, on cherche d'abord à classifier les exemples. Chaque neurone est donc associé à une fonction d'activation qui détermine la réponse du neurone. Cette fonction peut prendre un certain nombre formes différentes et l'on montre que le choix de la fonction n'a pas d'effet très important ur la qulité des réponses.
 
-* fonction palier
+* Fonction palier
 * Fonction sigmoïde
 * ReLU (Fonction la plus utilisée actuellement)
+
+Les fonctions d'activation sont dérivées de la **loi de Hebb**.
