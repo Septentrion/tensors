@@ -26,6 +26,9 @@ Dans l'apprentissage supervisé, "réponse" ou "résultat" d'un exemple. Chaque 
 
 * Fonction palier
 * Fonction sigmoïde
-* ReLU (Fonction la plus utilisée actuellement)
+* ReLU (“**Rectified Linear Unit**”, fonction la plus utilisée actuellement)
 
 Les fonctions d'activation sont dérivées de la **loi de Hebb**.
+
+## Régression
+>
