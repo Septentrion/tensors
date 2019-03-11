@@ -1,3 +1,6 @@
+/*
+ * Echantillon de données sur des échos sonar
+ */
 export const dataset = [
   [2.7810836, 2.550537003],
 	[1.465489372, 2.362125076],
@@ -11,6 +14,10 @@ export const dataset = [
 	[7.673756466, 3.508563011]
 ];
 
+/*
+ * Deux classes : 0 pour les mines, 1 pour les rochers
+ * Les étiquettes sont 0 et 1
+ */
 export const classes = [
   0,
 	0,
@@ -24,6 +31,12 @@ export const classes = [
 	1
 ];
 
+/*
+ * Le vecteur de poids après apprentisage
+ */
 export const weights = [0.20653640140000007, -0.23418117710000003];
 
+/*
+ * Le biais après apprentissage
+ */
 export const bias = -0.1;
