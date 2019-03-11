@@ -5,7 +5,9 @@
 import {train} from './training.js';
 
 /**
- * [fire description]
+ * Fonction d'activation
+ * Non-linéarité introduite dans le calcul, destinée à forcer une valeur
+ * Le neurone est 'actif' ou 'inacti'
  *
  * @param  {float} output [description]
  *
@@ -17,7 +19,8 @@ function fire(output)
 }
 
 /**
- * [predict description]
+ * Fonction de prédiction
+ * Calcule l'étiquette associée à un exemple à un stade donné de l'apprentissage
  *
  * @param  {Array} sample  L'exemple à classer
  * @param  {Array} weights [description]
